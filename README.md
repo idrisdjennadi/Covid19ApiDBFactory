@@ -22,9 +22,8 @@ Conception du schéma de données:
 un API gratuit, pas de clé necessaire pour avoir l'accès a ses données.
 Donc la premiière étape est de connecter à Postman et choisir Coronavirus COVID19 API sur https://documenter.getpostman.com/view/10808728/SzS8rjbc?fbclid=IwAR2YDfjJaPmF5dj02UUa1MBYGWAxqQr4ELPL6LZb5vVexwD5geOB5yFiDFo 
 
-De la on récupère le lien d'accès a l'API https://api.covid19api.com/ et l'exploiter sur python comme suit: 
+De la on récupère le lien d'accès a l'API https://api.covid19api.com/ et l'exploiter après sur pycharm 
 
-![3](https://user-images.githubusercontent.com/75087474/103660210-a13b9c00-4f6d-11eb-81e9-e059753594f2.PNG)
 
 2- Connecxion et  Récupération de données:
 
@@ -38,11 +37,20 @@ Ensuite par ces lignes de code sous python, on se connecte à notre API et on r�
 
 ![2](https://user-images.githubusercontent.com/75087474/103662089-d0530d00-4f6f-11eb-955b-18b64650ddf9.PNG)
 
+![3](https://user-images.githubusercontent.com/75087474/103660210-a13b9c00-4f6d-11eb-81e9-e059753594f2.PNG)
+
 on obtient ces résultats aprés exécution du code:
 
 ![resltata execusion code](https://user-images.githubusercontent.com/75087474/103662169-e8c32780-4f6f-11eb-8b19-ec2f36684fba.PNG)
 
 
+Egalement on aura notre fichier json téléchargé. 
 
+Ensuite après avoir eu la connection vers SQL Server et mit le chemin d'accès de notre fichier json, on actualise notre base de données et introduire la requète suivante:
 
+![req](https://user-images.githubusercontent.com/75087474/103663049-f5944b00-4f70-11eb-94d1-b3315ed8f33d.PNG)
+
+on obtient notre table MyTableName bien rempli avec les données de notre Coronavirus COVID19 API comme suit: 
+
+![table](https://user-images.githubusercontent.com/75087474/103663322-41df8b00-4f71-11eb-9c7f-02aa004beafd.PNG)
 
