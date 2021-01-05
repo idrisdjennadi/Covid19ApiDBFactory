@@ -31,11 +31,11 @@ En premier lieu on crée une base de donnée (Covid19) vide c'est-à-dire on met
 
 ![bddr](https://user-images.githubusercontent.com/75087474/103661048-92a1b480-4f6e-11eb-992a-c28be879db66.PNG)
 
-Ensuite par ces lignes de code sous python, on se connecte à notre API et on récupère ses données structurées dans un fichier json :
+Ensuite par ces lignes de code sous pycharm, on se connecte à notre API et on récupère ses données structurées dans un fichier json :
 
 ![1](https://user-images.githubusercontent.com/75087474/103662054-c5987800-4f6f-11eb-9440-c2c5b2b998b6.PNG)
 
-![2](https://user-images.githubusercontent.com/75087474/103662089-d0530d00-4f6f-11eb-955b-18b64650ddf9.PNG)
+![az](https://user-images.githubusercontent.com/75087474/103664091-2cb72c00-4f72-11eb-98b8-6b71a8f0f8ee.PNG)
 
 ![3](https://user-images.githubusercontent.com/75087474/103660210-a13b9c00-4f6d-11eb-81e9-e059753594f2.PNG)
 
