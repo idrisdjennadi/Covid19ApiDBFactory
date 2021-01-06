@@ -1,4 +1,4 @@
-# Covid19ApiDBFactory
+# Covid19ApiDB
 
 Rapport: Coronavirus COVID19 API
 
