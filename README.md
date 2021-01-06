@@ -3,7 +3,7 @@
 Rapport: Coronavirus COVID19 API
 
 Rapport réalisé par:
-idris DJENNADI
+idris DJENNADI;
 adel HAMACHE
 
 INTRODUCTION:
