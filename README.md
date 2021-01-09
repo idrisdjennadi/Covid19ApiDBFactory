@@ -19,12 +19,12 @@ Conception du schéma de données:
 
 1- Accéder à l’API Covid-19 :
 
-un API gratuit, pas de clé necessaire pour avoir l'accès a ses données.
+un API gratuit, pas de clé necessaire pour avoir l'accès à ses données.
 Donc la premiière étape est de connecter à Postman et choisir Coronavirus COVID19 API sur https://documenter.getpostman.com/view/10808728/SzS8rjbc?fbclid=IwAR2YDfjJaPmF5dj02UUa1MBYGWAxqQr4ELPL6LZb5vVexwD5geOB5yFiDFo 
 
 ![get api](https://user-images.githubusercontent.com/75087474/103666088-74d74e00-4f74-11eb-97ae-685b7d6c381d.PNG)
 
-De la on récupère le lien d'accès a l'API https://api.covid19api.com/ et l'exploiter après sur pycharm 
+De la on récupère le lien d'accès à l'API https://api.covid19api.com/ et l'exploiter après sur pycharm 
 
 
 2- Connecxion et  Récupération de données:
